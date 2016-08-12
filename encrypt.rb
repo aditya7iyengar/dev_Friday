@@ -1,4 +1,5 @@
 # C = (P^2+1)mod(P.length)
+# ANNKISSAM ==>> BIICCBBBB
 
 def char_to_int(character)
   alphabets_array = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
