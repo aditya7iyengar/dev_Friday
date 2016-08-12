@@ -1,4 +1,18 @@
+C = Cipher text
+P = Plain text
+
+C = (P+3)mod(26)
+
+P = 'ABCD'
+C = 'DEFG'
+
 C = (ƒ(P))mod(constant/variable)
+
+(P+ø+1)mod(P+ø) = 1
+
+P = 0
+(P+2)mod(P+1)
+
 
 A ==>> A
 AB ==>> AB
@@ -6,4 +20,4 @@ AC ==>> AB
 AD ==>> AB
 ABCD ==>> ABBB
 ANNKISSAM ==>> ABBBBBBAB
-ZZBJKBKBUBLJBUBLJABSLDJSABDL ==>> BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ZZBJKBKBUBLJBUBLJBBSLDJSBBDL ==>> BBBBBBBBBBBBBBBBBBBBBBBBBBBB
