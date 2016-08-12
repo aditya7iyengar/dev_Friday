@@ -1,0 +1,9 @@
+C = (ƒ(P))mod(constant/variable)
+
+A ==>> A
+AB ==>> AB
+AC ==>> AB
+AD ==>> AB
+ABCD ==>> ABBB
+ANNKISSAM ==>> ABBBBBBAB
+ZZBJKBKBUBLJBUBLJABSLDJSABDL ==>> BBBBBBBBBBBBBBBBBBBBBBBBBBBB
